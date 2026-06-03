@@ -6,4 +6,4 @@ const button = document.getElementById("btn");
 button.addEventListener("click", () => {
     count++;
     countText.textContent = count;
-});
+}); 
